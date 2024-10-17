@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","sources":["webpack://rspack-repro/./src/index.js"],"sourcesContent":["console.log('Hello word');"],"names":["console"],"mappings":"wMAAAA,QAAQ,GAAG,CAAC,a"}

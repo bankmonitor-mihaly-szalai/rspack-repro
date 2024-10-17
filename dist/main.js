@@ -1,0 +1,2 @@
+(()=>{var r={},o={};function e(n){var t=o[n];if(void 0!==t)return t.exports;var u=o[n]={exports:{}};return r[n](u,u.exports,e),u.exports}e.rv=function(){return"1.0.13"},e.ruid="bundler=rspack@1.0.13",console.log("Hello word")})();
+//# sourceMappingURL=main.js.map
